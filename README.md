@@ -2,6 +2,7 @@
 The official implementation of "MVFormer: UNet-like Transformer with Mix-Voxel Attention for Camera-based 3D Semantic Scene Completion"
 
 ![The architecture of our MVFOrmer.](./assets/arch.pdf)
+
 ![The demo of our MVFormer.](./assets/demo.gif)
 
 # Preliminary
