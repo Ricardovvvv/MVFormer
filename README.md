@@ -1,6 +1,8 @@
 # MVFormer
 The official implementation of "MVFormer: UNet-like Transformer with Mix-Voxel Attention for Camera-based 3D Semantic Scene Completion"
 
+![The demo of our MVFormer.](./assets/demo.gif)
+
 # Preliminary
 ### Installation
 1.Install PyTorch and Torchvision referring to https://pytorch.org/get-started/locally/.
