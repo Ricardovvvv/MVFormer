@@ -40,4 +40,4 @@ The official implementation of "MVFormer: UNet-like Transformer with Mix-Voxel A
 
 
 # Acknowledgements
-The development of this project is inspired and informed by [MonoScene](https://github.com/astra-vision/MonoScene), [MaskDINO](https://github.com/IDEA-Research/MaskDINO), [mobilestereonet](https://github.com/cogsys-tuebingen/mobilestereonet), [VoxFormer](https://github.com/NVlabs/VoxFormer) and [Symphonies](https://github.com/NVlabs/VoxFormer). We are thankful to build upon the pioneering work of these projects.
+The development of this project is inspired and informed by [MonoScene](https://github.com/astra-vision/MonoScene), [MaskDINO](https://github.com/IDEA-Research/MaskDINO), [mobilestereonet](https://github.com/cogsys-tuebingen/mobilestereonet), [VoxFormer](https://github.com/NVlabs/VoxFormer) and [Symphonies](https://github.com/hustvl/Symphonies). We are thankful to build upon the pioneering work of these projects.
